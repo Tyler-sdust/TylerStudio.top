@@ -6,4 +6,4 @@
 # 个人公众号：
 欢迎关注😀！
 
-![公众号](https://ae04.alicdn.com/kf/H6841b967368b4dc39e6d5a10ce3c7681Z.png)
+![公众号](./image/gzh_logo.jpg)
