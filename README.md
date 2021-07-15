@@ -6,4 +6,4 @@
 # 个人公众号：
 欢迎关注😀！
 
-![公众号](./image/gzh_logo.jpg)
+![公众号](./images/gzh_logo.jpg)
